@@ -1,5 +1,5 @@
 # ClassRepo
-Repository of Documents and Scripts for classes
+Repository of Documents and Scripts for classes that'll be useful for students
 
 ## Directory Structure
 
