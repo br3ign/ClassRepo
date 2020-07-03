@@ -1,8 +1,8 @@
-﻿# Download and Install SQL Server
+# Download and Install SQL Server
 
 # 1. Set variables
 
-$source_url = "https://go.microsoft.com/fwlink/?linkid=866658"
+$url = "https://go.microsoft.com/fwlink/?linkid=866658"
 $output_path = "C:\temp\"
 $output_file = "sqlexpress2019.exe"
 $output = $output_path+$output_file
