@@ -3,7 +3,7 @@
 # 1. Set variables
 
 $source_url = "https://go.microsoft.com/fwlink/?linkid=866658"
-$output_path = "E:\temp\"
+$output_path = "C:\temp\"
 $output_file = "sqlexpress2019.exe"
 $output = $output_path+$output_file
 $start_date = Get-Date
