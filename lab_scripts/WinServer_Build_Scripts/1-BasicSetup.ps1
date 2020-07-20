@@ -1,5 +1,8 @@
 ﻿# Set up Server Script
 
+# 0. Set Policy Execution
+Set-ExecutionPolicy Unrestricted
+
 # 1. Set hostname
 
 Rename-Computer -NewName "WINDC01"
